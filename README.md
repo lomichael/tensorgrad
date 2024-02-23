@@ -4,10 +4,18 @@
 
 A tensor manipulation and automatic differentiation library in Python.
 
-> **DISCLAIMER**: This is a work-in-progress hobby project. Use at your own risk.
+> **DISCLAIMER**: This is a hobby project and a work-in-progress.
 
-## Prerequisites
+## Build 
+tensorgrad has been tested on Debian Linux.
+
+Prerequisties:
 - Python 3
+
+To clone the repository:
+```sh
+git clone https://codeberg.org/lomichael/tensorgrad
+```
 
 ## Usage
 ```sh
